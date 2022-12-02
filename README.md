@@ -52,7 +52,8 @@ Build Status
 
 Я скачала архив с проектом Unity и добавила его к себе в Unity Hub, активировала прошлое пространство, перешла в папку с проектом, запустила обучение ML-Agenta для 12 префабов
 
-![image](https://user-images.githubusercontent.com/114353535/205288052-f9f73f6a-c784-430d-a49f-f96fe4d608b2.png)
+![Снимок экрана (21)](https://user-images.githubusercontent.com/114353535/205301522-c33ddb30-2e61-462b-bbde-effc8dc73b22.png)
+
 
 
 
